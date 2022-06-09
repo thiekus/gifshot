@@ -1,0 +1,11 @@
+Caption:= ft_cap;
+lblBrightnessDesc.Caption:= ft_lblBrightnessDesc_cap;
+lblContrastDesc.Caption:= ft_lblContrastDesc_cap;
+lblHueDesc.Caption:= ft_lblHueDesc_cap;
+lblSaturationDesc.Caption:= ft_lblSaturationDesc_cap;
+lblSharpnessDesc.Caption:= ft_lblSharpnessDesc_cap;
+lblGammaDesc.Caption:= ft_lblGammaDesc_cap;
+lblColorEnableDesc.Caption:= ft_lblColorEnableDesc_cap;
+lblWhiteBalanceDesc.Caption:= ft_lblWhiteBalanceDesc_cap;
+lblBacklightDesc.Caption:= ft_lblBacklightDesc_cap;
+lblGainDesc.Caption:= ft_lblGainDesc_cap;

@@ -1,0 +1,1 @@
+This folder intended to empty for gallery

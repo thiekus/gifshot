@@ -1,6 +1,8 @@
-# GIFShot
+Khayalan GIFShot
+_________________________________
 
-Copyright Â© Khayalan Software 2012
+Copyright © Khayalan Software 2012
+
 
 Khayalan GIFShot is program to make a capture from webcam into GIF animation format.
 GIFShot is easy, powerfull, and user friendly interface, making GIF animation made easy!
@@ -19,8 +21,12 @@ ____________________
 * Able to pause capture, make more experience capture.
 * And any others...
 
-Note: no support provided for this old program!
 
-Licensed under MPL 2.0
+If you fell this program useful, please feel free to donate 
+some money to help this program development through PayPal 
+by E-Mail thekill96@gmail.com. By donating, so we try 
+there are new updates for you.
 
-Website: [thiekus.com](http://thiekus.com)
+Project site: http://www.khayalan.tk
+Blog site: http://sifaris.blogspot.com
+e-Mail: thekill96@gmail.com

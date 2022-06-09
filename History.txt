@@ -1,0 +1,77 @@
+Version History
+____________________________________________________________
+
+Note:
+
++ Added
+- Removed
+* Fixed
+? Information
+
+____________________________________________________________
+
+
+Version 0.8.2.156 (14 October 2012)
+__________________________________
+
++ Now Video configuration moved into separated form.
++ Video configuration enhancements.
++ Installer changed from Wise to Inno Setup (with some source modifcation, but not remove the Orignal Copyright).
+* Value still set to default in video configuration after changing.
+* Some recorder tweaks.
+* Minor bugfixes.
+- Because of installer program change, portable installation is not supported anymore.
+
+Version 0.8.1.130 (17 August 2012)
+__________________________________
+
++ Multilanguage support
++ Added Progress Bar after stopping capture to know the current progression position.
++ Now support application path in unicode named directory.
++ Subject and Body are saved in send to mail features.
+* Minor UI enhancements.
+* Preview screen now flickerless.
+* Minor bugfix.
+
+Version 0.8.0.88 (15 August 2012)
+_________________________________
+
++ Now, GIFShot using DirectShow 9 as capture library instead AVI Capture that very outdated. The affects is more stable and fixed a lot problem that occurs in old AVI capture library.
++ Added ability to pause while capturing.
++ Added hotkey to capture (R), pause (P) and stop (S).
++ Added skin for application.
++ You can send the record result via e-Mail or portable device.
+* GDI Cache issues fixed, that make the frames sometimes blank.
+* Now resize animation result is purely than before.
+* UI Enhancement in Animation Settings Groupbox.
+* Now frame drawing is faster than before.
+* GIFShot now can draw the frame although the main form was minimized.
+
+Version 0.7.5.75 (30 May 2012)
+______________________________
+
++ Added application configuration form.
+
+Version 0.7.4.66 (29 May 2012)
+______________________________
+
+? Project renamed to GIFShot under Khayalan Software.
++ Added preview after capturing.
+* Restrucured capture routine.
+* Restructure some code so it's able to handle exception.
+* Some minor fixes.
+* UI Enhancement.
+? Unreleased to public. 
+
+Version 0.6.2.37 (11 May 2012)
+______________________________
+
++ Support Unicode Filename/Path.
+* Resize variable issues fixed.
+* Memory leaks solved.
+? Unreleased to public.
+
+Version 0.5.1.27 (30 April 2012)
+______________________________
+
+? Initial Private Release.
